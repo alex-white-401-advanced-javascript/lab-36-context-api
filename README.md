@@ -52,4 +52,4 @@
 ##### `list.js`
 
 #### UML
-![UML Diagram](lab-36-2.jpg)
+![UML Diagram](./lab-36-2.jpg)
